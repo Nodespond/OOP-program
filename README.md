@@ -27,7 +27,7 @@ int main(){
     }
 
  if (sum_of_points >= 10) cout <<"You Win!";
-     else cout<<"You lose!";
+     else cout<<"You loser!";
 
     return 0;
 }
